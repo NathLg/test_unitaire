@@ -1,0 +1,19 @@
+{
+  "name": "test_unitaire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions.js",
+  "scripts": {
+    "test": "node-qunit-phantomjs index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyril392/test_unitaire.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyril392/test_unitaire/issues"
+  },
+  "homepage": "https://github.com/cyril392/test_unitaire#readme"
+}
